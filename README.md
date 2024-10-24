@@ -22,3 +22,11 @@ python notes_app.py
 
 ## Screen Shots  
 **Notes app**  
+![Notes app](images/notes_app.png)
+
+**Adding Notes**  
+![Adding notes](images/add_notes.png)
+
+**Viewing Note**  
+![Viewing Note](images/notes.png)
+
